@@ -1,2 +1,2 @@
-# amazonclo
-create amazon clone
+# amazonclon
+# amazonclone5
